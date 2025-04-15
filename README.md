@@ -11,15 +11,8 @@ I+D
   
 - 💞️ I’m looking to collaborate on ...
 
-CORFO, OCDE, LATAM
-
 - 📫 How to reach me ...
-
-+56959287537
-  
 
 
 <!---
-Feedbackti-psandoval/Feedbackti-psandoval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feedbackti-psandoval/Feedbackti-psandoval 
