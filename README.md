@@ -4,17 +4,10 @@
   
 - 👀 I’m interested in ...
   
-Mi interés es trabajar con tecnologías avanzadas de inteligencia artificial y modelos de lenguaje, como los ofrecidos por AI21 Labs, Meta, MistralAI, OpenAI y Microsoft. Cada uno de estos modelos y tecnologías proporciona capacidades únicas y especializadas que pueden ser aprovechadas para satisfacer las necesidades específicas de diversos proyectos. Mi objetivo es utilizar estas herramientas de manera efectiva para desarrollar soluciones innovadoras y optimizadas en áreas como la generación de texto, el diálogo multilingüe, la búsqueda semántica y la generación aumentada por recuperación (RAG).                                                         
+Mi interés es trabajar con tecnologías avanzadas de inteligencia artificial y modelos de lenguaje, como los ofrecidos por Google, Cada uno de estos modelos y tecnologías proporciona capacidades únicas y especializadas que pueden ser aprovechadas para satisfacer las necesidades específicas de diversos proyectos. Mi objetivo es utilizar estas herramientas de manera efectiva para desarrollar soluciones innovadoras y optimizadas en áreas como la generación de texto, el diálogo multilingüe, la búsqueda semántica y la generación aumentada por recuperación (RAG).                                                         
 - 🌱 I’m currently learning ...
 
 I+D
   
-- 💞️ I’m looking to collaborate on ...
-
-- 📫 How to reach me ...
-
-
-<!---
-Feedbackti-psandoval/Feedbackti-psandoval 
 
 https://auth.anci.gob.cl/ui
