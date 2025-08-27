@@ -9,5 +9,3 @@ Mi interés es trabajar con tecnologías avanzadas de inteligencia artificial y 
 
 I+D
   
-
-https://auth.anci.gob.cl/ui
